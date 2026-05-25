@@ -1,8 +1,8 @@
-import { HeroSection } from '@/sections/home/HeroSection';
-import { ServicesOverview } from '@/sections/home/ServicesOverview';
-import { AboutDoctor } from '@/sections/home/AboutDoctor';
-import { ReviewsHelix } from '@/sections/home/ReviewsHelix';
-import { LocationContact } from '@/sections/home/LocationContact';
+import HeroSection from './HeroSection'
+import ServicesOverview from './ServicesOverview'
+import AboutDoctor from './AboutDoctor'
+import ReviewsHelix from './ReviewsHelix'
+import LocationContact from './LocationContact'
 
 export function Home() {
   return (
